@@ -1,0 +1,30 @@
+E:\My Software\Encrypt message\Encrypt message\bin\Debug\Encrypt message.exe.config
+E:\My Software\Encrypt message\Encrypt message\bin\Debug\Encrypt message.exe
+E:\My Software\Encrypt message\Encrypt message\bin\Debug\Encrypt message.pdb
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\GM_CC.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\GM_CS.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Home.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MainWindow.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_CC.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_CS.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_Morse.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\TelexTranslate.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\App.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message_MarkupCompile.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message_MarkupCompile.lref
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\App.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\GM_CC.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\GM_CS.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Home.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MainWindow.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_CC.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_CS.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\MH_Morse.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\TelexTranslate.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.g.resources
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt_message.Properties.Resources.resources
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.csproj.GenerateResource.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.exe
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.pdb
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.csprojAssemblyReference.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Debug\Encrypt message.csproj.CoreCompileInputs.cache

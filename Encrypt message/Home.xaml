@@ -1,0 +1,26 @@
+﻿<Page x:Class="Encrypt_message.Home"
+      xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+      xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+      xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+      xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+      xmlns:local="clr-namespace:Encrypt_message"
+      mc:Ignorable="d"
+      Title="Home" Height="680" Width="715">
+
+    <Canvas>
+        <Canvas.Background>
+            <ImageBrush ImageSource="./Images/Background.jpg"/>
+        </Canvas.Background>
+        <!--<Button Style="{StaticResource PrimaryButton}" Name="optionsButton" Width="100" Height="25" Content="Options..." Click="OptionsButton_Click" Canvas.Left="415" Canvas.Top="255"/>-->
+        <Button HorizontalAlignment="Left" Name="mahoachuchu" Content="MÃ HÓA CHỮ->CHỮ" FontSize="16" FontWeight="Heavy" Width="179" Height="28" Canvas.Left="410" Canvas.Top="225" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Mahoachuchu_Click"></Button>
+        <Button Name="mahoachuso" Content="MÃ HÓA CHỮ->SỐ" FontSize="16" FontWeight="Heavy" Width="179" Height="28" Canvas.Left="410" Canvas.Top="260" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Mahoachuso_Click"></Button>
+        <Button Name="giaimachuchu" Content="GIẢI MÃ CHỮ->CHỮ" FontSize="16" FontWeight="Heavy" Width="179" Height="29" Canvas.Left="410" Canvas.Top="293" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Giaimachuchu_Click"></Button>
+        <Button Name="giaimasochu" Content="GIẢI MÃ SỐ->CHỮ" FontSize="16" FontWeight="Heavy" Width="179" Height="28" Canvas.Left="410" Canvas.Top="327" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Giaimasochu_Click"></Button>
+        <Button Name="morse" Content="MÃ HÓA MORSE" FontSize="16" FontWeight="Heavy" Width="179" Height="28" Canvas.Left="410" Canvas.Top="360" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Morse_Click"></Button>
+        <Button Name="telex" Content="CHUYỂN QUA TELEX" FontSize="16" FontWeight="Heavy" Width="179" Height="28" Canvas.Left="410" Canvas.Top="393" Background="#FFFDC6C6" BorderBrush="#FF8FADFF" Foreground="#FFFF0303" Click="Telex_Click"></Button>
+
+        <TextBlock Text="© Mary.Trang Luong" Canvas.Left="25" Canvas.Top="627" Cursor="None" FontSize="17" FontStyle="Italic"/>
+        <TextBlock Text="luonghtrang@gmail.com" Canvas.Left="44" Canvas.Top="645" Cursor="None" FontSize="14
+                   " FontStyle="Italic"/>
+	</Canvas>
+</Page>

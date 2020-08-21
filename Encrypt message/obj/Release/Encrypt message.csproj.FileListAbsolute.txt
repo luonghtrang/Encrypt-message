@@ -1,0 +1,29 @@
+E:\My Software\Encrypt message\Encrypt message\bin\Release\Encrypt message.exe.config
+E:\My Software\Encrypt message\Encrypt message\bin\Release\Encrypt message.exe
+E:\My Software\Encrypt message\Encrypt message\bin\Release\Encrypt message.pdb
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message.csprojAssemblyReference.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Release\GM_CC.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\GM_CS.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Home.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MainWindow.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_CC.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_CS.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_Morse.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\TelexTranslate.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\App.g.cs
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message_MarkupCompile.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message_MarkupCompile.lref
+E:\My Software\Encrypt message\Encrypt message\obj\Release\App.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\GM_CC.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\GM_CS.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Home.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MainWindow.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_CC.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_CS.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\MH_Morse.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\TelexTranslate.baml
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message.g.resources
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt_message.Properties.Resources.resources
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message.csproj.GenerateResource.cache
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message.exe
+E:\My Software\Encrypt message\Encrypt message\obj\Release\Encrypt message.pdb
